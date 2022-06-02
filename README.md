@@ -1,1 +1,1 @@
-# BBG-project-memory-game
+# Memory Game Project
